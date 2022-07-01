@@ -1,0 +1,10 @@
+Name: Get Github Link File
+Description: New Addin Description
+Binding: getFrom_githubLink
+Interactive: false
+
+Name: Purl active Rmd
+Description: New Addin Description
+Binding: purl_activeRmd
+Interactive: false
+
